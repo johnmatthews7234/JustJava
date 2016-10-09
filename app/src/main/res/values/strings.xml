@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="Button_Label_Order">order</string>
+    <string name="Text_Quantity">quantity</string>
+    <string name="Initial_Value">Select number of cups and press ORDER</string>
+    <string name="Text_Price">Order Summary</string>
+    <string name="PlusLabel">+</string>
+    <string name="MinusLabel">-</string>
+    <string name="Text_Toppings">Toppings</string>
+    <string name="Checkbox_WhippedCream">Whipped Cream</string>
+    <string name="Checkbox_Chocolate">Chocolate</string>
+    <string name="CustomerName">Name</string>
+</resources>
